@@ -1,0 +1,17 @@
+:hello : "Welcome to Codebreacker game!"
+:menu : "- If you want to start the game, enter START\n- If you want to show statistic, enter STAT\n- If you want to exit, enter EXIT"
+:game_mode : "Select game mode:\nEasy - enter EASY\nNormal - enter NORMAl\nHard - enter HARD"
+:rules : "Codebreaker is a logic game in which a code-breaker tries to break a secret code created by a code-maker. The code-maker, which will be played by the application we’re going to write, creates a secret code of four numbers between 1 and 6."
+:start_game: "I made a code, try to guess!\nRemember, you have %s attempts and %s hints. To use the hint, enter a HINT\n"
+:win : 'You won! The code was %s'
+:lose : 'You lose! The code was %s'
+:no_hint : "You do not have any more hints"
+:hint : "Hint: %s. You have %s hints left"
+:try_again : "Try again! Your result - %s. You have %s attempts"
+:wrong_guess : 'You entered the wrong code! The code should consist of four numbers from one to six inclusive'
+:wrong_name : 'Name can not be empty!'
+:ask_menu : 'Enter your choice:'
+:ask_game_mode : 'Enter your choice (default - normal):'
+:ask_code : 'Enter your code variant:'
+:ask_play_again: "Do you want to play again? (y/n):"
+:ask_name : "Enter your name:"

@@ -1,0 +1,9 @@
+:easy :
+  :attempts : 10
+  :hints : 3
+:normal :
+  :attempts : 8
+  :hints : 2
+:hard :
+  :attempts : 6
+  :hints : 1

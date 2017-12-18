@@ -1,0 +1,40 @@
+---
+:Vova:
+  :easy:
+    :win: 1
+    :lose: 0
+    :last_game: 2017-12-17 15:05:38.000000000 +02:00
+  :normal:
+    :win: 3
+    :lose: 0
+    :last_game: 2017-12-17 15:05:38.000000000 +02:00
+  :hard:
+    :win: 0
+    :lose: 6
+    :last_game: 2017-12-17 15:05:38.000000000 +02:00
+:Vova2:
+  :easy:
+    :win: 0
+    :lose: 0
+    :last_game: 
+  :normal:
+    :win: 0
+    :lose: 0
+    :last_game: 
+  :hard:
+    :win: 3
+    :lose: 2
+    :last_game: 2017-12-17 18:32:48.743883708 +02:00
+:Mark:
+  :easy:
+    :win: 0
+    :lose: 0
+    :last_game: 
+  :normal:
+    :win: 0
+    :lose: 1
+    :last_game: 2017-12-17 19:18:03.122995306 +02:00
+  :hard:
+    :win: 0
+    :lose: 0
+    :last_game: 
