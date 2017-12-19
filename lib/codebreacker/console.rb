@@ -1,7 +1,7 @@
 class Console
 
   def initialize
-    @phrases = YAML.load_file(File.expand_path('../..lib/codebreacker/data/phrases.yml', __dir__))
+    @phrases = YAML.load_file(File.expand_path('../../lib/codebreacker/data/phrases.yml', __dir__))
     puts_message :hello
     puts_message :rules
     print_menu
