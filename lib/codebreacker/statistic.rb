@@ -1,6 +1,6 @@
 class Statistic
 
-  FILE = './lib/codebreacker/data/statistic.yml'
+  FILE = File.expand_path('../../lib/codebreacker/data/statistic.yml', __dir__)
 
   def self.show
 
