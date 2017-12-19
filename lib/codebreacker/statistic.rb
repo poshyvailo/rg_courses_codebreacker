@@ -1,9 +1,10 @@
 class Statistic
 
-  FILE = 'lib/codebreacker/data/statistic.yml'
+  FILE = Dir.pwd + '/lib/codebreacker/data/statistic.yml'
 
   def self.show
-    load
+
+    # load
   end
 
   def self.insert(data)
