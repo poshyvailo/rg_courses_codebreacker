@@ -42,7 +42,7 @@ class Game
   private
 
   def set_game_mode(game_mode)
-    game_modes = YAML.load_file(File.expand_path('./lib/codebreacker', __dir__) + '/data/game_mods.yml')
+    game_modes = YAML.load_file(File.expand_path('/', __dir__) + '/data/game_mods.yml')
     unless %w[easy normal hard].include? game_mode.to_s
       raise(ArgumentError, 'Game mode must be "easy", "normal" or "hard:')
     end
