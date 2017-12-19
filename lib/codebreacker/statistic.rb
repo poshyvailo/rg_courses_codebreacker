@@ -1,6 +1,6 @@
 class Statistic
 
-  FILE = './lib/codebreacker/data/statistic.yml'
+  FILE = 'lib/codebreacker/data/statistic.yml'
 
   def self.show
     load
