@@ -25,7 +25,7 @@ class Game
   end
 
   def valid_code?(code)
-    /^[1-6]{4}$/.match? code.to_s
+    /^[1-6]{4}$/.match code.to_s
   end
 
   alias :valid_guess? :valid_code?
