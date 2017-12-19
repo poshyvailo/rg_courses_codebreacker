@@ -1,6 +1,6 @@
 class Statistic
 
-  FILE = Dir.pwd + '/codebreacker/data/statistic.yml'
+  FILE = '/codebreacker/data/statistic.yml'
 
   def self.show
 
