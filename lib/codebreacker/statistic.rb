@@ -3,8 +3,7 @@ class Statistic
   FILE = File.expand_path('../../lib/codebreacker/data/statistic.yml', __dir__)
 
   def self.show
-
-    # load
+    load
   end
 
   def self.insert(data)
